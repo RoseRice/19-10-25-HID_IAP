@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/vital.ico</file>
+        <file>images/vital_lable.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+# 下位机 HID_IAP_F1
+/HID_IAP_F1/MDK-ARM/HID_IAP_F1/
+/HID_IAP_F1/MDK-ARM/RTE/
+
+# 上位机 HID_IAP_Qt
+*.user
+/build-HID_IAP-Desktop_Qt_4_8_5-Debug/
+/build-HID_IAP-Desktop_Qt_4_8_5-Release/
+
+# 文件结束
+*.rice
